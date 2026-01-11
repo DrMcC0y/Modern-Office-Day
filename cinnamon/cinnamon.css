@@ -1361,13 +1361,11 @@ StScrollBar {
     /* border-color: #1f9ede;  */
     background-image: url("common-assets/misc/panel-label-active.png");
     /* scaled */
-    background-position: 3px 40px; 
-    background-size: 32px 9px;
-    /* scaled end*/
+    background-position: 3px 40px; background-size: 32px 9px;
+    /* scaled end */
 
-    /* standard */
-    /* background-position: 6px 40px;
-    background-size: 31px 9px; */
+    /* standard */ 
+    /* background-position: 6px 40px; background-size: 31px 9px; */ 
     /* standard end */
     }
   .grouped-window-list-item-box:hover, .grouped-window-list-item-box:focus {

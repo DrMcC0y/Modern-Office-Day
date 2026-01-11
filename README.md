@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon)
 **Author**: DrMcC0y
-**Version**: 1.0.0
+**Version**: 1.0.1
 **Based on**: Mint-Y-Aqua
 
 ### 🖼 Description
@@ -13,7 +13,7 @@ Modern-Office-Day is a **light GTK theme** for Linux Mint (Cinnamon edition), de
 
 To complete the visual experience, it is highly recommended to use it together with the **Modern-Office-Day-Icons** icon set:
 
-> 🔗 [Modern-Office-Day-Icons](https://www.pling.com/p/2302176/)
+> 🔗 [Modern-Office-Day-Icons](https://www.pling.com/p/2340063/)
 
 ---
 
