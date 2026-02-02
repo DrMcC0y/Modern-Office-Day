@@ -2974,8 +2974,13 @@ headerbar button.titlebutton,
       opacity: 1; }
   .titlebar.default-decoration button.titlebutton.close {
     border-radius: 0 8px 0 0;}
-  .maximized .titlebar button.titlebutton.close {
-    border-radius: 0;}
+  .maximized .titlebar button.titlebutton.close,
+    .tiled .titlebar button.titlebutton.close,
+    .tiled-left .titlebar button.titlebutton.close,
+    .tiled-right .titlebar button.titlebutton.close,
+    .tiled-top .titlebar button.titlebutton.close,
+    .tiled-bottom .titlebar button.titlebutton.close {
+      border-radius: 0; }
   headerbar button.titlebutton.close,
   .titlebar button.titlebutton.close {
     background-image: -gtk-scaled(url("assets/titlebutton-close.png"), url("assets/titlebutton-close@2.png")); }
