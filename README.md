@@ -1,35 +1,23 @@
-### 📄 `README.md` – *Modern-Office-Day-Icons*
+### 📄 `README.md` – *Modern-Office-Day Theme*
 
-**Name**: Modern-Office-Day-Icons
-**License**: GNU General Public License v3.0 (GPL-3.0)
-**Compatible with**: Linux Mint (Cinnamon), GTK desktops
+**Name**: Modern-Office-Day
+**License**: GNU General Public License v3 (GPL-3.0)
+**Compatible with**: Linux Mint (Cinnamon)
 **Author**: DrMcC0y
-**Version**: 1.4.2
-**Status**: Actively maintained
-**Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
+**Version**: 1.4.3
+**Based on**: Mint-Y-Dark-Aqua
 
 ---
 
 ### 🖼 Description
 
-**Modern-Office-Day-Icons** is a modern, unified icon set designed to complement the [Modern-Office-Day GTK theme](https://www.pling.com/p/2340062/).
-The design draws inspiration from modern commercial operating systems — without using any commercial assets — resulting in a clean, neutral, and professional aesthetic that matches the GTK theme.
-It aims to deliver a clean and visually consistent desktop experience for Linux Mint Cinnamon users — but it works well with other GTK-based desktops too.
+Modern-Office-Day is a GTK theme for Linux Mint (Cinnamon edition), based on the official **Mint-Y-Dark-Aqua** theme. The goal was to create a more unified, clean, and modern look, while preserving Mint's usability and compatibility. Designed with users transitioning from popular commercial operating systems in mind, Modern Office Day offers a familiar and intuitive layout reminiscent of modern desktops. The interface is clean and neutral, providing a comfortable and professional look suitable for long hours of use, without color tints that distract from your workflow.
 
-The set includes completely redesigned folder icons, many updated application icons, and selected category icons
+To complete the visual experience, it's highly recommended to use it together with the **Modern-Office-Day-Icons** icon set:
 
-It is partially based on open source icon themes licensed under the GPL, such as:
+> 🔗 [Modern-Office-Day-Icons](https://www.pling.com/p/2340063/)
 
-* **Breeze** – many icons were used as-is or modified
-* **Numix-Circle** – used occasionally for some application icons
-* **Papirus** – used in very small parts (e.g., one or two icons)
-* **Hicolor** – one or two icons included from this fallback theme
-
-**Modern-Office-Day** was created as a bright counterpart to the **[Cool Mint Breeze](https://www.pling.com/p/2322581/)** theme (which is also a Breeze derivative). I didn’t just mix existing icon sets — I also:
-
-* Redesigned many outdated icons to match the modern aesthetic
-* Created many icons from scratch
-* Carefully curated and unified the overall look to fit the Cinnamon environment
+**Please note:** due to Cinnamon limitations, the theme includes separate versions for standard and scaled UI (e.g. if you are using 4K and 200% scaling) to ensure that the panel decorations (the indicators under open application icons) display correctly and consistently.
 
 ---
 
@@ -50,3 +38,4 @@ Credits and licenses are respected as per open source licensing terms.
 2. Select the theme and icons in the Cinnamon *Themes* settings.
 
 ---
+
