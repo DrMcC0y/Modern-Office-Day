@@ -232,7 +232,6 @@ StScrollBar {
   border: 1px solid #afbebe;
   border-radius: 3px;
   background-color:rgba(245, 246, 246, 0.93); } /* start menu color / calendar bg */
-  /* background-color:rgba(218, 229, 232, 0.93); } */
 
   .menu.top {
     border-radius: 0 0 3px 3px; }
