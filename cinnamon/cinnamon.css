@@ -840,7 +840,6 @@ StScrollBar {
   border: 1px solid #afbebe;
   border-radius: 3px;
   background-color: rgba(242, 243, 243, 0.77);
-  /* background-color: rgba(227, 237, 241, 0.77); */
   padding: 13px;
   spacing-rows: 10px;
   spacing-columns: 10px;
