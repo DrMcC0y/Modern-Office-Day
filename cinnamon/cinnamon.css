@@ -1837,28 +1837,28 @@ StScrollBar {
   font-size: 1em; }
 
 .audio-device-selection-dialog .audio-selection-box .audio-selection-device, .polkit-dialog-user-combo {
-  border: 1px solid rgba(233, 243, 243, 0.94);
+  border: 1px solid rgba(238, 241, 241, 0.94);
   color: #303030;
-  background-color: rgba(233, 243, 243, 0.94); }
+  background-color: rgba(238, 241, 241, 0.94); }
   .audio-device-selection-dialog .audio-selection-box .audio-selection-device:focus, .polkit-dialog-user-combo:focus {
-    border: 1px solid rgba(233, 243, 243, 0.94);
+    border: 1px solid rgba(238, 241, 241, 0.94);
     color: #303030;
-    background-color: rgba(233, 243, 243, 0.94);
+    background-color: rgba(238, 241, 241, 0.94);
     border: 1px solid #9a9aa5; }
   .audio-device-selection-dialog .audio-selection-box .audio-selection-device:hover, .polkit-dialog-user-combo:hover {
-    border: 1px solid rgba(233, 243, 243, 0.94);
+    border: 1px solid rgba(238, 241, 241, 0.94);
     color: #303030;
-    background-color: #d0d0d5; }
+    background-color: #d2d2d2; }
   .audio-device-selection-dialog .audio-selection-box .audio-selection-device:insensitive, .polkit-dialog-user-combo:insensitive {
-    border: 1px solid rgba(233, 243, 243, 0.94);
+    border: 1px solid rgba(238, 241, 241, 0.94);
     color: rgba(48, 48, 48, 0.5);
-    background-color: rgba(233, 243, 243, 0.94); }
+    background-color: rgba(238, 241, 241, 0.94); }
   .audio-device-selection-dialog .audio-selection-box .audio-selection-device:selected, .polkit-dialog-user-combo:selected, .audio-device-selection-dialog .audio-selection-box .audio-selection-device:active, .polkit-dialog-user-combo:active {
-    border: 1px solid rgba(233, 243, 243, 0.94);
+    border: 1px solid rgba(238, 241, 241, 0.94);
     color: #303030;
     background-color: #dedee1; }
   .audio-device-selection-dialog .audio-selection-box .audio-selection-device:checked, .polkit-dialog-user-combo:checked {
-    border: 1px solid rgba(233, 243, 243, 0.94);
+    border: 1px solid rgba(238, 241, 241, 0.94);
     color: #303030;
     background-color: #dedee1; }
 
@@ -1868,15 +1868,15 @@ StScrollBar {
   border-radius: 18px;
   border: 2px solid transparent;
   color: #303030;
-  background-color: #b8c0c0; }
+  background-color: #ccd2d2; }
   .dialog .dialog-button:focus {
     color: #303030;
-    background-color: #b8c0c0;
-    border: 2px solid #828e90; }
+    background-color: #ccd2d2;
+    border: 2px solid #97a1a2; }
   .dialog .dialog-button:hover {
     border: 2px solid transparent;
     color: #303030;
-    background-color: #a2aaac; }
+    background-color: #b1b8ba; }
   .dialog .dialog-button:active {
     border: 2px solid transparent;
     color: #303030;
@@ -1892,58 +1892,58 @@ StScrollBar {
 
 .dialog .dialog-button:default {
   border: 2px solid transparent;
-  color: #303030;
+  color: #eeeeee;
   background-color: #1f9ede; }
   .dialog .dialog-button:focus:default {
-    color: #303030;
+    color: #eeeeee;
     background-color: #1f9ede;
     border: 2px solid #0c3e58; }
   .dialog .dialog-button:hover:default {
     border: 2px solid transparent;
-    color: #303030;
+    color: #eeeeee;
     background-color: #197eb1; }
   .dialog .dialog-button:active:default {
     border: 2px solid transparent;
-    color: #303030;
+    color: #eeeeee;
     background-color: #1c8ec8; }
   .dialog .dialog-button:checked:default {
     border: 2px solid transparent;
-    color: #303030;
+    color: #eeeeee;
     background-color: #1c8ec8; }
   .dialog .dialog-button:insensitive:default {
     border-color: #b5b5bd;
-    border: 2px solid #b8c0c0;
+    border: 2px solid #ccd2d2;
     color: rgba(48, 48, 48, 0.5);
     background-color: #a7b4b4; }
 
 .dialog .dialog-button:destructive-action {
   border: 2px solid transparent;
   color: #eeeeee;
-  background-color: #F04A50; }
+  background-color: #bd3b3f; }
   .dialog .dialog-button:focus:destructive-action {
-    border: 2px solid #b2393d;
+    border: 2px solid #813434;
     color: #eeeeee;
-    background-color: #F04A50; }
+    background-color: #bd3b3f; }
   .dialog .dialog-button:hover:destructive-action {
     border: 2px solid transparent;
     color: #eeeeee;
-    background-color: #d33d42; }
+    background-color: #a13f3f; }
   .dialog .dialog-button:active:destructive-action {
     border: 2px solid transparent;
     color: #eeeeee;
-    background-color: #ee3239; }
+    background-color: #b74747; }
   .dialog .dialog-button:checked:destructive-action {
     border: 2px solid transparent;
     color: #eeeeee;
-    background-color: #ee3239; }
+    background-color: #b74747; }
   .dialog .dialog-button:insensitive:destructive-action {
     border-color: #b5b5bd;
-    border: 2px solid #b8c0c0;
+    border: 2px solid #ccd2d2;
     color: rgba(48, 48, 48, 0.5);
     background-color: #a7b4b4; }
 
 .dialog {
-  background-color: rgba(233, 243, 243, 0.94);
+  background-color: rgba(238, 241, 241, 0.94);
   border-radius: 18px;
   border: 1px solid #b5b5bd;
   padding: 18px; }
@@ -2046,7 +2046,7 @@ StScrollBar {
         icon-size: 64px; }
 
 .workspace-switch-osd, .info-osd, .media-keys-osd {
-  background-color: rgba(233, 243, 243, 0.94);
+  background-color: rgba(238, 241, 241, 0.94);
   border: 1px solid #b5b5bd;
   border-radius: 20px;
   text-align: center;
@@ -2112,7 +2112,7 @@ StScrollBar {
 
 .resize-popup {
   color: #303030;
-  background-color: rgba(233, 243, 243, 0.94);
+  background-color: rgba(238, 241, 241, 0.94);
   border-radius: 6px;
   padding: 12px; }
 

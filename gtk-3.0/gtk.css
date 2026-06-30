@@ -10,7 +10,7 @@
 
 @define-color selected_bg_color #1f9ede;
 @define-color background #f6f9f9; /* nemo bottom bar and backgrounds e.g. of themes manager and other places like time and date etc  */
-@define-color theme_main_bg_1 #f2f5f5; /* e.g. nemo top bg (!!! must reset cinnamon to see effect) */
+@define-color theme_main_bg_1 #f6f8f8; /* e.g. nemo top bg (!!! must reset cinnamon to see effect) */
 
 @define-color MAIN_FONT_COLOR #3f5354;
 @define-color gray_light #cad0d0; /* borders in nemo explorer and gray-out part of sliders */
